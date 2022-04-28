@@ -10,7 +10,7 @@ Puedes probar algunos de estos proyectos en: [Itch.io](https://itch.io/profile/c
 
 Disclaimer: Only source code for which Clueless Studio has proprietary rights is hosted in this repository.
 
-##### 1. __Lingonauts (2019)__
+### 1. __Lingonauts (2019)__
 
 > PROJECT DETAILS
 
@@ -19,7 +19,7 @@ Disclaimer: Only source code for which Clueless Studio has proprietary rights is
 * Development info: Group. 4 artist, 1 producer, 2 programmers. 2 Months.
 * Tools: Unity/C#/Azure Cognitive Services.
 
-##### 2. __Jump! (2019)__
+### 2. __Jump! (2019)__
 
 > PROJECT DETAILS
 
@@ -29,7 +29,7 @@ Disclaimer: Only source code for which Clueless Studio has proprietary rights is
 * Tools: Unity/C#.
 
 
-##### 3. __PachinKat (2020)__
+### 3. __PachinKat (2020)__
 
 > PROJECT DETAILS
 
@@ -38,7 +38,7 @@ Disclaimer: Only source code for which Clueless Studio has proprietary rights is
 * Development time: Solo. 1 Day.
 * Tools: Unity/C#. 
 
-##### 4. __Evil's Lair (2020)__
+### 4. __Evil's Lair (2020)__
 
 > PROJECT DETAILS
 
@@ -48,7 +48,7 @@ Disclaimer: Only source code for which Clueless Studio has proprietary rights is
 * Tools: Unity/C#. 
  
 
-##### 5. __UDPTest (2020)__ 
+### 5. __UDPTest (2020)__ 
 
 > PROJECT DETAILS
 
@@ -57,7 +57,7 @@ Disclaimer: Only source code for which Clueless Studio has proprietary rights is
 * Development time: Solo. 2 Days.
 * Tools: Unity/C#/.NET sockets. 
 
-##### 6. __One for All & All for Slime (2021)__ 
+### 6. __One for All & All for Slime (2021)__ 
 
 > PROJECT DETAILS
 
@@ -66,7 +66,7 @@ Disclaimer: Only source code for which Clueless Studio has proprietary rights is
 * Development time: Group. 1 artist, 3 programmers. 1 week.
 * Tools: Unity/C#. 
 
-##### 7. __Miau.TV (2021)__
+### 7. __Miau.TV (2021)__
 
 > PROJECT DETAILS
 
@@ -75,7 +75,7 @@ Disclaimer: Only source code for which Clueless Studio has proprietary rights is
 * Development time: Group. 4 artist, 3 programmers, 1 producer. 2 week.
 * Tools: Unity/C#. 
 
-##### 8. __EDOSPA (2021)__ 
+### 8. __EDOSPA (2021)__ 
 
 > PROJECT DETAILS
 
@@ -84,7 +84,7 @@ Disclaimer: Only source code for which Clueless Studio has proprietary rights is
 * Development time: Group. 2 artist, 1 programmer. 3 days.
 * Tools: Unity/C#/Photon Network. 
 
-##### 9. __Goblins Greed (2021)__
+### 9. __Goblins Greed (2021)__
 
 > PROJECT DETAILS
 
@@ -93,7 +93,7 @@ Disclaimer: Only source code for which Clueless Studio has proprietary rights is
 * Development time: Group. 2 programmers. 5 days.
 * Tools: Unity/C#/Photon Network. 
 
-##### 10. __Alberto's Odyssey (2021)__
+### 10. __Alberto's Odyssey (2021)__
 
 > PROJECT DETAILS
 
@@ -102,7 +102,7 @@ Disclaimer: Only source code for which Clueless Studio has proprietary rights is
 * Development time: Group. 2 artist, 1 programmer. 1 week.
 * Tools: Unity/C#/Photon Network. 
 
-##### 11. __Glitched (2021)__
+### 11. __Glitched (2021)__
 
 > PROJECT DETAILS
 
@@ -111,7 +111,7 @@ Disclaimer: Only source code for which Clueless Studio has proprietary rights is
 * Development time: Group. 1 artist, 2 programmer. 2 week.
 * Tools: Unity/C#/HLSL/PHP/MySQL. 
 
-##### 12. __The Tower That Covers The Sun (2022)__ 
+### 12. __The Tower That Covers The Sun (2022)__ 
 
 > PROJECT DETAILS
 
