@@ -1,38 +1,122 @@
 Source Code - Clueless Studio
 
-===============================================================================================================================
+Reel showing the projects can be found at: [Youtube] (https://youtu.be/TIzAYeuEeuw)
+You can test some of this projects at: [Itch.io](https://itch.io/profile/cluelessstudio)
 
-Aviso Legal: En este repositorio sólo se han alojado códigos fuentes para los cuales Clueless Studio tiene derechos de propiedad.
-
-Cerebriums (2019): Este juego es un Pet Fantasy con minijuegos que sirvió como base para el proyecto Lingonauts.
-
-Jump! (2019): Juego de plataformas multijugador que consiste en sobrevivir a las trampas y sobrevivir más tiempo que el rival.
-
-PachinKat (2020): Es un minijuego simple como reinvención del clásico Pachinko.
-
-Evil´s Lair (2020): Survival Horror FPS donde los jugadores deben sobrevivir a oleadas de enemigos y derrotar al jefe final para lograr la victoria.
-
-UDPTest (2020): Este juego es un minijuego básico, pero que contiene el código para la creación de un server UDP. 
-
-One for All & All for Slime (2021): Juego platformer desarrollado corto tiempo para el Brackeys Game Jam 2021. 
-
-EDOSPA (2021): Online Multiplayer FPS desarrollado en 3 días como proyecto final para un curso de desarrollo de videojuegos. 
+Reel mostrando los proyectos puede ser encontrado en: [Youtube] (https://youtu.be/TIzAYeuEeuw)
+Puedes probar algunos de estos proyectos en: [Itch.io](https://itch.io/profile/cluelessstudio)
 
 ===============================================================================================================================
 
 Disclaimer: Only source code for which Clueless Studio has proprietary rights is hosted in this repository.
 
-Cerebriums (2019): This game is a Pet Fantasy with mini-games that served as the basis for the Lingonauts project.
+__Lingonauts (2019)__
 
-Jump! (2019): Multiplayer platformer game that consists of surviving traps and outlasting the opponent.
+PROJECT DETAILS
 
-PachinKat (2020): A simple mini-game as a reinvention of the classic Pachinko.
+> Brief: This game is a Pet Fantasy with mini-games that served as a tool for teaching english to children.
+> My Role: Lead developer/programmer. I was in charge of minigame logic/aesthetic.
+> Development info: Group. 4 artist, 1 producer, 2 programmers. 2 Months.
+> Tools: Unity/C#/Azure Cognitive Services.
 
-Evil's Lair (2020): Survival Horror FPS where players must survive waves of enemies and defeat the final boss to achieve victory.
+__Jump! (2019)__
 
-UDPTest (2020): This game is a basic mini-game, but it contains the code for the creation of a UDP server. 
+PROJECT DETAILS
 
-One for All & All for Slime (2021): Platformer game developed in short time for the Brackeys Game Jam 2021. 
+> Brief: Multiplayer platformer game that consists of surviving traps and outlasting the opponent.
+> My Role: Lead developer/programmer. In charge of whole programming.
+> Development time: Group. 1 artist, 1 programmer. 1 week.
+> Tools: Unity/C#.
 
-EDOSPA (2021): Online Multiplayer FPS developed in 3 days as a final project for a videogame development course. 
+
+__PachinKat (2020)__
+
+PROJECT DETAILS
+
+> Brief: A simple mini-game as a reinvention of the classic Pachinko.
+> My Role: Solo developer.
+> Development time: Solo. 1 Day.
+> Tools: Unity/C#. 
+
+__Evil's Lair (2020)__
+
+PROJECT DETAILS
+
+> Brief: Survival Horror FPS where players must survive waves of enemies and defeat the final boss to achieve victory.
+> My Role: Lead developer/programmer. In charge of whole programming.
+> Development time: Group. 2 artist, 1 programmer. 1 month.
+> Tools: Unity/C#. 
+ 
+
+__UDPTest (2020)__ 
+
+PROJECT DETAILS
+
+> Brief: This game is a basic mini-game, but it contains the code for the creation of a UDP server. 
+> My Role: Solo developer.
+> Development time: Solo. 2 Days.
+> Tools: Unity/C#/.NET sockets. 
+
+__One for All & All for Slime (2021)__ 
+
+PROJECT DETAILS
+
+> Brief: 2D Platformer game developed in short time for the Brackeys Game Jam 2021.
+> My Role: Lead developer/programmer. In charge of level desing/systems and character control.
+> Development time: Group. 1 artist, 3 programmers. 1 week.
+> Tools: Unity/C#. 
+
+__Miau.TV (2021)__
+
+PROJECT DETAILS
+
+> Brief:  Prototype of a strategy simulator developed to test game mechanics inspired in cat videos. 
+> My Role: Lead developer/programmer. In charge of game core systems and input.
+> Development time: Group. 4 artist, 3 programmers, 1 producer. 2 week.
+> Tools: Unity/C#. 
+
+__EDOSPA (2021)__ 
+
+PROJECT DETAILS
+
+> Brief:  Online Multiplayer FPS developed as a final project for a videogame development course. 
+> My Role: Lead developer/programmer. In charge of whole programming.
+> Development time: Group. 2 artist, 1 programmer. 3 days.
+> Tools: Unity/C#/Photon Network. 
+
+__Goblins Greed (2021)__
+
+PROJECT DETAILS
+
+> Brief:  Online Multiplayer Action strategy game developed for gamedev.tv gamejam. 
+> My Role: Lead developer/programmer. Lead developer/programmer. In charge of networking, game core systems and character controller.
+> Development time: Group. 2 programmers. 5 days.
+> Tools: Unity/C#/Photon Network. 
+
+__Alberto's Odyssey (2021)__
+
+PROJECT DETAILS
+
+> Brief:  Online Multiplayer Coop game with an arcade feel and cowboys vs zombies theme. 
+> My Role: Lead developer/programmer. In charge of whole programming.
+> Development time: Group. 2 artist, 1 programmer. 1 week.
+> Tools: Unity/C#/Photon Network. 
+
+__Glitched (2021)__
+
+PROJECT DETAILS
+
+> Brief:  Runner Advergame developed for GG Game Fest 2021. 
+> My Role: Lead developer/programmer. In charge of game feel & aesthetics systems and database connection.
+> Development time: Group. 1 artist, 2 programmer. 2 week.
+> Tools: Unity/C#/HLSL/PHP/MySQL. 
+
+__The Tower That Covers The Sun (2022)__ 
+
+PROJECT DETAILS
+
+> Brief:  Isometric Puzzle game developed for the Global Game Jam 2022.
+> My Role: Lead developer/programmer. In charge of game feel & aesthetics systems and puzzle desing & logic.
+> Development time: Group. 1 artist, 3 programmer. 4 days.
+> Tools: Unity/C#/HLSL.
 
