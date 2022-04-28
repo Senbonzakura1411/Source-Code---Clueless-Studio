@@ -1,9 +1,9 @@
 # Source Code - Clueless Studio
 
-Reel showing the projects can be found at: [Youtube] (https://youtu.be/TIzAYeuEeuw)
+Reel showing the projects can be found at: [Youtube](https://youtu.be/TIzAYeuEeuw)
 You can test some of this projects at: [Itch.io](https://itch.io/profile/cluelessstudio)
 
-Reel mostrando los proyectos puede ser encontrado en: [Youtube] (https://youtu.be/TIzAYeuEeuw)
+Reel mostrando los proyectos puede ser encontrado en: [Youtube](https://youtu.be/TIzAYeuEeuw)
 Puedes probar algunos de estos proyectos en: [Itch.io](https://itch.io/profile/cluelessstudio)
 
 ===============================================================================================================================
