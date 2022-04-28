@@ -1,4 +1,4 @@
-Source Code - Clueless Studio
+#Source Code - Clueless Studio
 
 Reel showing the projects can be found at: [Youtube] (https://youtu.be/TIzAYeuEeuw)
 You can test some of this projects at: [Itch.io](https://itch.io/profile/cluelessstudio)
@@ -10,113 +10,113 @@ Puedes probar algunos de estos proyectos en: [Itch.io](https://itch.io/profile/c
 
 Disclaimer: Only source code for which Clueless Studio has proprietary rights is hosted in this repository.
 
-__Lingonauts (2019)__
+1. __Lingonauts (2019)__
 
-PROJECT DETAILS
+> PROJECT DETAILS
 
-> Brief: This game is a Pet Fantasy with mini-games that served as a tool for teaching english to children.
-> My Role: Lead developer/programmer. I was in charge of minigame logic/aesthetic.
-> Development info: Group. 4 artist, 1 producer, 2 programmers. 2 Months.
-> Tools: Unity/C#/Azure Cognitive Services.
+* Brief: This game is a Pet Fantasy with mini-games that served as a tool for teaching english to children.
+* My Role: Lead developer/programmer. I was in charge of minigame logic/aesthetic.
+* Development info: Group. 4 artist, 1 producer, 2 programmers. 2 Months.
+* Tools: Unity/C#/Azure Cognitive Services.
 
-__Jump! (2019)__
+2. __Jump! (2019)__
 
-PROJECT DETAILS
+> PROJECT DETAILS
 
-> Brief: Multiplayer platformer game that consists of surviving traps and outlasting the opponent.
-> My Role: Lead developer/programmer. In charge of whole programming.
-> Development time: Group. 1 artist, 1 programmer. 1 week.
-> Tools: Unity/C#.
+* Brief: Multiplayer platformer game that consists of surviving traps and outlasting the opponent.
+* My Role: Lead developer/programmer. In charge of whole programming.
+* Development time: Group. 1 artist, 1 programmer. 1 week.
+* Tools: Unity/C#.
 
 
-__PachinKat (2020)__
+3. __PachinKat (2020)__
 
-PROJECT DETAILS
+> PROJECT DETAILS
 
-> Brief: A simple mini-game as a reinvention of the classic Pachinko.
-> My Role: Solo developer.
-> Development time: Solo. 1 Day.
-> Tools: Unity/C#. 
+* Brief: A simple mini-game as a reinvention of the classic Pachinko.
+* My Role: Solo developer.
+* Development time: Solo. 1 Day.
+* Tools: Unity/C#. 
 
-__Evil's Lair (2020)__
+4. __Evil's Lair (2020)__
 
-PROJECT DETAILS
+> PROJECT DETAILS
 
-> Brief: Survival Horror FPS where players must survive waves of enemies and defeat the final boss to achieve victory.
-> My Role: Lead developer/programmer. In charge of whole programming.
-> Development time: Group. 2 artist, 1 programmer. 1 month.
-> Tools: Unity/C#. 
+* Brief: Survival Horror FPS where players must survive waves of enemies and defeat the final boss to achieve victory.
+* My Role: Lead developer/programmer. In charge of whole programming.
+* Development time: Group. 2 artist, 1 programmer. 1 month.
+* Tools: Unity/C#. 
  
 
-__UDPTest (2020)__ 
+5. __UDPTest (2020)__ 
 
-PROJECT DETAILS
+> PROJECT DETAILS
 
-> Brief: This game is a basic mini-game, but it contains the code for the creation of a UDP server. 
-> My Role: Solo developer.
-> Development time: Solo. 2 Days.
-> Tools: Unity/C#/.NET sockets. 
+* Brief: This game is a basic mini-game, but it contains the code for the creation of a UDP server. 
+* My Role: Solo developer.
+* Development time: Solo. 2 Days.
+* Tools: Unity/C#/.NET sockets. 
 
-__One for All & All for Slime (2021)__ 
+6. __One for All & All for Slime (2021)__ 
 
-PROJECT DETAILS
+> PROJECT DETAILS
 
-> Brief: 2D Platformer game developed in short time for the Brackeys Game Jam 2021.
-> My Role: Lead developer/programmer. In charge of level desing/systems and character control.
-> Development time: Group. 1 artist, 3 programmers. 1 week.
-> Tools: Unity/C#. 
+* Brief: 2D Platformer game developed in short time for the Brackeys Game Jam 2021.
+* My Role: Lead developer/programmer. In charge of level desing/systems and character control.
+* Development time: Group. 1 artist, 3 programmers. 1 week.
+* Tools: Unity/C#. 
 
-__Miau.TV (2021)__
+7. __Miau.TV (2021)__
 
-PROJECT DETAILS
+> PROJECT DETAILS
 
-> Brief:  Prototype of a strategy simulator developed to test game mechanics inspired in cat videos. 
-> My Role: Lead developer/programmer. In charge of game core systems and input.
-> Development time: Group. 4 artist, 3 programmers, 1 producer. 2 week.
-> Tools: Unity/C#. 
+* Brief:  Prototype of a strategy simulator developed to test game mechanics inspired in cat videos. 
+* My Role: Lead developer/programmer. In charge of game core systems and input.
+* Development time: Group. 4 artist, 3 programmers, 1 producer. 2 week.
+* Tools: Unity/C#. 
 
-__EDOSPA (2021)__ 
+8. __EDOSPA (2021)__ 
 
-PROJECT DETAILS
+> PROJECT DETAILS
 
-> Brief:  Online Multiplayer FPS developed as a final project for a videogame development course. 
-> My Role: Lead developer/programmer. In charge of whole programming.
-> Development time: Group. 2 artist, 1 programmer. 3 days.
-> Tools: Unity/C#/Photon Network. 
+* Brief:  Online Multiplayer FPS developed as a final project for a videogame development course. 
+* My Role: Lead developer/programmer. In charge of whole programming.
+* Development time: Group. 2 artist, 1 programmer. 3 days.
+* Tools: Unity/C#/Photon Network. 
 
-__Goblins Greed (2021)__
+9. __Goblins Greed (2021)__
 
-PROJECT DETAILS
+> PROJECT DETAILS
 
-> Brief:  Online Multiplayer Action strategy game developed for gamedev.tv gamejam. 
-> My Role: Lead developer/programmer. Lead developer/programmer. In charge of networking, game core systems and character controller.
-> Development time: Group. 2 programmers. 5 days.
-> Tools: Unity/C#/Photon Network. 
+* Brief:  Online Multiplayer Action strategy game developed for gamedev.tv gamejam. 
+* My Role: Lead developer/programmer. Lead developer/programmer. In charge of networking, game core systems and character controller.
+* Development time: Group. 2 programmers. 5 days.
+* Tools: Unity/C#/Photon Network. 
 
-__Alberto's Odyssey (2021)__
+10. __Alberto's Odyssey (2021)__
 
-PROJECT DETAILS
+> PROJECT DETAILS
 
-> Brief:  Online Multiplayer Coop game with an arcade feel and cowboys vs zombies theme. 
-> My Role: Lead developer/programmer. In charge of whole programming.
-> Development time: Group. 2 artist, 1 programmer. 1 week.
-> Tools: Unity/C#/Photon Network. 
+* Brief:  Online Multiplayer Coop game with an arcade feel and cowboys vs zombies theme. 
+* My Role: Lead developer/programmer. In charge of whole programming.
+* Development time: Group. 2 artist, 1 programmer. 1 week.
+* Tools: Unity/C#/Photon Network. 
 
-__Glitched (2021)__
+11. __Glitched (2021)__
 
-PROJECT DETAILS
+> PROJECT DETAILS
 
-> Brief:  Runner Advergame developed for GG Game Fest 2021. 
-> My Role: Lead developer/programmer. In charge of game feel & aesthetics systems and database connection.
-> Development time: Group. 1 artist, 2 programmer. 2 week.
-> Tools: Unity/C#/HLSL/PHP/MySQL. 
+* Brief:  Runner Advergame developed for GG Game Fest 2021. 
+* My Role: Lead developer/programmer. In charge of game feel & aesthetics systems and database connection.
+* Development time: Group. 1 artist, 2 programmer. 2 week.
+* Tools: Unity/C#/HLSL/PHP/MySQL. 
 
-__The Tower That Covers The Sun (2022)__ 
+12. __The Tower That Covers The Sun (2022)__ 
 
-PROJECT DETAILS
+> PROJECT DETAILS
 
-> Brief:  Isometric Puzzle game developed for the Global Game Jam 2022.
-> My Role: Lead developer/programmer. In charge of game feel & aesthetics systems and puzzle desing & logic.
-> Development time: Group. 1 artist, 3 programmer. 4 days.
-> Tools: Unity/C#/HLSL.
+* Brief:  Isometric Puzzle game developed for the Global Game Jam 2022.
+* My Role: Lead developer/programmer. In charge of game feel & aesthetics systems and puzzle desing & logic.
+* Development time: Group. 1 artist, 3 programmer. 4 days.
+* Tools: Unity/C#/HLSL.
 
